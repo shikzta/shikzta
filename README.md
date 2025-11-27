@@ -20,7 +20,8 @@ I specialise in data cleaning, relational databases, dashboards, and analytical 
 
 ### 1️⃣ Retail Sales SQL Analytics Project (2025)
 
-![SQL Project Badge](https://img.shields.io/badge/RETAIL%20SALES%20SQL-blue?style=for-the-badge)
+[![View Project](https://img.shields.io/badge/View_Dashboard-28A745?style=for-the-badge)](https://github.com/shikzta/RetailSales_Excel_Project)
+
 
 **What I did:**
 - Designed full SQL database (PK/FK, ERD)
@@ -32,7 +33,8 @@ I specialise in data cleaning, relational databases, dashboards, and analytical 
 
 ### 2️⃣ Excel Retail Dashboard (2025)
 
-![Excel Project Badge](https://img.shields.io/badge/RETAIL%20SALES%20EXCEL-green?style=for-the-badge)
+[![Excel Project Badge](https://img.shields.io/badge/RETAIL%20SALES%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shikzta/RetailSales_Excel_Project)
+
 
 **What I did:**
 - Built interactive Excel dashboard (Jan–Mar 2025)
