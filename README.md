@@ -1,72 +1,71 @@
-🔥 Schikan S. — Data Analyst | SQL | Excel | Power BI (Learning Azure & Python)
+🔥 Schikan S. — Data Analyst
 
-Hi! I’m Schikan, an analytical and hands-on problem solver who loves turning messy data into clean insights.
+SQL | Excel | Power BI | Azure (Learning) | Python (Learning)
 
-I specialise in:
+Hi! I'm Schikan, a hands-on analytical problem-solver who loves turning messy data into clean insights.
+I specialise in data cleaning, relational databases, dashboards, and analytical storytelling.
 
-📊 Data Analysis (Excel, SQL, Power BI)
+---
 
-🧹 Data Cleaning & Transformation
+## 📌 I Specialise In:
+- 📊 **Data Analysis** (Excel, SQL, Power BI)  
+- 🧹 **Data Cleaning & Transformation**  
+- 🗄️ **Relational Databases / SQL Joins**  
+- 📈 **Dashboards & KPI Reporting**  
+- 🧠 **Currently learning Azure, DP-900, Python for Data Analysis**
 
-🗃️ Relational Databases / SQL Joins
+---
 
-📈 Dashboards & KPI Reports
+## 🚀 Featured Projects
 
-🧠 Currently learning Azure, DP-900, Python for Data Analysis
+### 1️⃣ Retail Sales SQL Analytics Project (2025)
 
-🚀 Featured Projects
-📘 Retail Sales SQL Analytics Project (2025)
+![SQL Project Badge](https://img.shields.io/badge/RETAIL%20SALES%20SQL-blue?style=for-the-badge)
 
-[![View SQL Project](https://img.shields.io/badge/VIEW_PROJECT-Retail_Sales_SQL-blue?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/shikzta/RetailSales2025_SQL_Project)
+**What I did:**
+- Designed full SQL database (PK/FK, ERD)
+- Created realistic retail dataset (customers, orders, products)
+- Wrote analysis queries: revenue, top customers, category insights, monthly trends  
+- Included screenshots, documentation, and GitHub-ready folder structure
 
+---
 
+### 2️⃣ Excel Retail Dashboard (2025)
 
+![Excel Project Badge](https://img.shields.io/badge/RETAIL%20SALES%20EXCEL-green?style=for-the-badge)
 
-Designed full SQL schema (PK/FK, ERD)
+**What I did:**
+- Built interactive Excel dashboard (Jan–Mar 2025)
+- KPIs: revenue, top customers, product performance
+- Includes Pivot backend, insights page, raw dataset
+- Delivered real business recommendations based on data
 
-Created sample dataset (customers, orders, products)
+---
 
-Analytical queries: revenue, category insights, top customers, monthly trends
+## 🧰 Tech Stack
+- **SQL Server** (T-SQL)
+- **Excel** (Pivot Tables, Dashboards)
+- **Power BI** (learning)
+- **Azure Fundamentals (DP-900)**
+- **Python** (Pandas — coming soon)
 
-Includes screenshots, documentation, and GitHub-ready structure
+---
 
-📊 Excel Retail Dashboard (2025)
+## 🏗️ What I'm Working On
+- Azure DP-900 certification  
+- More SQL projects with realistic business datasets  
+- Power BI dashboards  
+- Building a strong data portfolio for analyst roles  
 
-[![View Excel Dashboard](https://img.shields.io/badge/VIEW_DASHBOARD-Retail_Sales_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shikzta/RetailSales_Excel_Project)
+---
 
+## 📬 Contact
+📧 Email: **schikan@yahoo.co.uk**  
+🔗 GitHub: **https://github.com/shikzta**
 
+![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=flat&logo=database)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=flat&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power_BI-Learning-yellow?style=flat&logo=power-bi)
+![Azure](https://img.shields.io/badge/Azure-Studying-blue?style=flat&logo=microsoft-azure)
+![Python](https://img.shields.io/badge/Python-Learning-blue?style=flat&logo=python)
 
-Built interactive Excel dashboard (Jan–Mar 2025)
-
-KPIs: revenue, top customers, product performance
-
-Includes Pivot backend, insights report, raw dataset
-
-Real-world business recommendations included
-
-🧰 Tech Stack
-
-SQL Server (T-SQL)
-
-Excel / Pivot Tables / Dashboards
-
-Power BI (learning)
-
-Azure Fundamentals (DP-900)
-
-Python (pandas coming soon)
-
-🏆 What I’m Working On
-
-Azure DP-900 certification
-
-More SQL projects with realistic business datasets
-
-Power BI dashboards
-
-Building my data portfolio for analyst roles
-
-📫 Contact
-
-Email: schikan@yahoo.co.uk
-GitHub: https://github.com/shikzta
