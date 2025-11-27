@@ -17,7 +17,10 @@ I specialise in:
 🚀 Featured Projects
 📘 Retail Sales SQL Analytics Project (2025)
 
-🔗 View Project
+[![View SQL Project](https://img.shields.io/badge/VIEW_PROJECT-Retail_Sales_SQL-blue?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/shikzta/RetailSales2025_SQL_Project)
+
+
+
 
 Designed full SQL schema (PK/FK, ERD)
 
@@ -29,7 +32,9 @@ Includes screenshots, documentation, and GitHub-ready structure
 
 📊 Excel Retail Dashboard (2025)
 
-🔗 View Project
+[![View Excel Dashboard](https://img.shields.io/badge/VIEW_DASHBOARD-Retail_Sales_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shikzta/RetailSales_Excel_Project)
+
+
 
 Built interactive Excel dashboard (Jan–Mar 2025)
 
