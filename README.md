@@ -20,7 +20,7 @@ I specialise in data cleaning, relational databases, dashboards, and analytical 
 
 ### 1️⃣ Retail Sales SQL Analytics Project (2025)
 
-[![View Project](https://img.shields.io/badge/View_Dashboard-28A745?style=for-the-badge)](https://github.com/shikzta/RetailSales_Excel_Project)
+[![View Project](https://img.shields.io/badge/View_Project-28A745?style=for-the-badge)](https://github.com/shikzta/RetailSales2025_SQL_Project)
 
 
 **What I did:**
@@ -33,7 +33,7 @@ I specialise in data cleaning, relational databases, dashboards, and analytical 
 
 ### 2️⃣ Excel Retail Dashboard (2025)
 
-[![Excel Project Badge](https://img.shields.io/badge/RETAIL%20SALES%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shikzta/RetailSales_Excel_Project)
+[![Excel Project Badge](https://img.shields.io/badge/View_Project-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shikzta/RetailSales_Excel_Project)
 
 
 **What I did:**
