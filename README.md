@@ -1,16 +1,67 @@
-## Hi there 👋
+🔥 Schikan S. — Data Analyst | SQL | Excel | Power BI (Learning Azure & Python)
 
-<!--
-**shikzta/shikzta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Schikan, an analytical and hands-on problem solver who loves turning messy data into clean insights.
 
-Here are some ideas to get you started:
+I specialise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analysis (Excel, SQL, Power BI)
+
+🧹 Data Cleaning & Transformation
+
+🗃️ Relational Databases / SQL Joins
+
+📈 Dashboards & KPI Reports
+
+🧠 Currently learning Azure, DP-900, Python for Data Analysis
+
+🚀 Featured Projects
+📘 Retail Sales SQL Analytics Project (2025)
+
+🔗 View Project
+
+Designed full SQL schema (PK/FK, ERD)
+
+Created sample dataset (customers, orders, products)
+
+Analytical queries: revenue, category insights, top customers, monthly trends
+
+Includes screenshots, documentation, and GitHub-ready structure
+
+📊 Excel Retail Dashboard (2025)
+
+🔗 View Project
+
+Built interactive Excel dashboard (Jan–Mar 2025)
+
+KPIs: revenue, top customers, product performance
+
+Includes Pivot backend, insights report, raw dataset
+
+Real-world business recommendations included
+
+🧰 Tech Stack
+
+SQL Server (T-SQL)
+
+Excel / Pivot Tables / Dashboards
+
+Power BI (learning)
+
+Azure Fundamentals (DP-900)
+
+Python (pandas coming soon)
+
+🏆 What I’m Working On
+
+Azure DP-900 certification
+
+More SQL projects with realistic business datasets
+
+Power BI dashboards
+
+Building my data portfolio for analyst roles
+
+📫 Contact
+
+Email: schikan@yahoo.co.uk
+GitHub: https://github.com/shikzta
