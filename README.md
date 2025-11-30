@@ -8,11 +8,15 @@ I specialise in data cleaning, relational databases, dashboards, and analytical 
 ---
 
 ## 📌 I Specialise In:
-- 📊 **Data Analysis** (Excel, SQL, Power BI)  
-- 🧹 **Data Cleaning & Transformation**  
-- 🗄️ **Relational Databases / SQL Joins**  
-- 📈 **Dashboards & KPI Reporting**  
-- 🧠 **Currently learning Azure, DP-900, Python for Data Analysis**
+- 📊 **Data Analysis** (Excel, SQL, Power BI, Python--Pandas)  
+- 🧹 **Data Cleaning & Transformation**  (ETL logic, preprocessing, validation)
+- 🗄️ **Relational Databases / SQL Joins**  (T-SQL, Window Functions, Aggregations)
+- 📈 **Dashboards & KPI Reporting**  (Power BI, storytelling visuals)
+- 🧮 Exploratory Data Analysis (EDA) using Python (Pandas, Matplotlib)
+- 📦 Data Modelling & Pipeline Structuring (clean project folder hierarchy)
+- 🔍 Customer, Product & Revenue Insights (top-N analysis, segmentation)
+- 🤖 Analytics Automation (Python scripts / reusable templates)
+- 📚 Currently advancing skills in Python for analytics + Power BI DAX
 
 ---
 
@@ -30,10 +34,34 @@ I specialise in data cleaning, relational databases, dashboards, and analytical 
 - Included screenshots, documentation, and GitHub-ready folder structure
 
 ---
+### 2️⃣ Retail Sales Analytics – Python (EDA Project)
 
-### 2️⃣ Excel Retail Dashboard (2025)
+[![View Project](https://img.shields.io/badge/View_Project-28A745?style=for-the-badge)](https://github.com/shikzta/Retail_Sales_Analytics_Python)
 
-[![Excel Project Badge](https://img.shields.io/badge/View_Project-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/shikzta/RetailSales_Excel_Project)
+**What I did:**
+- Data cleaning & preprocessing
+- Feature engineering (dates, revenue metrics, top products, customer frequency)
+- Visual analysis (7 custom charts)
+- Executive insights summarising key business opportunities
+- This project demonstrates my ability to handle raw data, extract insight, and build clear, structured analytical workflows.
+---
+
+### 3️⃣ Retail Sales Dashboard – Power BI
+
+[![View Project](https://img.shields.io/badge/View_Project-28A745?style=for-the-badge)](https://github.com/shikzta/Inventory-Performance-Dashboard-PowerBI)
+
+A fully interactive Power BI dashboard analysing retail performance using visual KPIs, drill-downs, and slicers.
+
+
+**What I did:**
+- Revenue by product, month, country, and customer segments
+- Purchase frequency & sales trends
+- Key business KPIs for quick decision-making
+- Built with strong data modelling, DAX measures, and a clean UI/UX designed for business stakeholders.
+---
+### 3️⃣ Excel Retail Dashboard (2025)
+
+[![Excel Project Badge](https://img.shields.io/badge/View_Project-28A745?style=for-the-badge)](https://github.com/shikzta/RetailSales_Excel_Project)
 
 
 **What I did:**
@@ -45,11 +73,13 @@ I specialise in data cleaning, relational databases, dashboards, and analytical 
 ---
 
 ## 🧰 Tech Stack
-- **SQL Server** (T-SQL)
-- **Excel** (Pivot Tables, Dashboards)
-- **Power BI** (learning)
-- **Azure Fundamentals (DP-900)**
-- **Python** (Pandas — coming soon)
+- **SQL Server** (T-SQL -- Joins, Aggregations, Views, CTEs)
+- **Excel** (Pivot Tables, Dashboards, Lookups, PowerQuery, Reporting)
+- **Power BI** (Data Modelling, DAX [learning], Interactive Dashboards)
+- **Python** (Pandas, Matplotlib) — EDA, Data Cleaning, Automation
+- **Azure Fundamentals (DP-900)** Databases, Storage, Analytics Services
+- **Git & GitHub** — Version Control, Project Structure, Documentation
+- **Data Wrangling** — Cleaning, transforming, and validating datasets
 
 ---
 
